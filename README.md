@@ -18,4 +18,4 @@ _____________________________
 Проверить входную строку на валидность.
 _____________________________
 ### Решение:
-[класс с решение задачи](https://github.com/Nutopzhe/UnpackingString/blob/master/src/Main.java)
+[Main класс с решением задачи](https://github.com/Nutopzhe/UnpackingString/blob/master/src/Main.java)
